@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.results h1{
+    transition: 1s !important;
+    margin: 1% 15%;
+    padding: 1%;
+}
+.results{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
