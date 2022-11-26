@@ -9,9 +9,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.8.41",
+    "@emotion/react": "^11.10.5",
     "axios": "^0.27.2",
+    "framer-motion": "^7.3.6",
     "react": "^18.2.0",
+    "react-awesome-reveal": "^4.1.0",
     "react-dom": "^18.2.0",
+    "react-icons": "^4.6.0",
     "react-router-dom": "^6.4.1"
   },
   "devDependencies": {
