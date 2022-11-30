@@ -1,9 +1,9 @@
 const quetions = [
     {
         id: 1,
-        body: "2+2",
+        body: "Html nima",
         answer: "4",
-        point: 30
+        point: 10
     },
     {
         id: 2,
@@ -70,30 +70,6 @@ const quetions = [
         body:"200-22",
         answer:"178",
         point:30
-    },
-    {
-        id:13,
-        body:"200-22",
-        answer:"178",
-        point:30
-    },
-    {
-        id:14,
-        body:"200-22",
-        answer:"178",
-        point:30
-    },
-    {
-        id:15,
-        body:"200-22",
-        answer:"178",
-        point:30
-    },
-    {
-        id:16,
-        body:"200-22",
-        answer:"178",
-        point:30
-    },
+    }
 ]
 export default quetions;
