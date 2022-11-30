@@ -19,7 +19,7 @@ function Home() {
                 <>
                     <Link to={db._id} className="quetions">
                         <img style={{ width: "350px" }} src={db.img} alt="" />
-                        <h1>{db.name}</h1>
+                        <h1>{db.name}</h1> 
                     </Link>
                 </>
             ))}
